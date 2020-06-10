@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gusluna/nodejs-unit-testing/issues"
   },
-  "homepage": "https://github.com/gusluna/nodejs-unit-testing#readme"
+  "homepage": "https://github.com/gusluna/nodejs-unit-testing#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
